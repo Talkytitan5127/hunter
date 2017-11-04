@@ -10,9 +10,9 @@ hunter_add_version(
     VERSION
     "0.1.0.0"
     URL
-    "https://github.com/${GITHUB_USERNAME}/lab09/archive/v0.1.0.0.tar.gz"
+    "https://github.com/Talkytitan5127/lab09/archive/v0.1.0.0.tar.gz"
     SHA1
-    ${PRINT_SHA1}
+    4e5650281f7ca84e6d38af4b91787c177f6e7ebb
 )
 
 hunter_pick_scheme(DEFAULT url_sha1_cmake)
